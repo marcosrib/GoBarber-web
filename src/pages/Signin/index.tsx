@@ -1,5 +1,5 @@
 import React, { useRef, useCallback } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useHistory } from 'react-router-dom';
 
 import { FiLogIn, FiMail, FiLock } from 'react-icons/fi';
 import { Form } from '@unform/web';
@@ -23,8 +23,9 @@ interface SignInFormData {
 const Signin: React.FC = () => {
   const formRef = useRef<FormHandles>(null);
 
-  const { signIn, user } = useAuth();
+  const { signIn } = useAuth();
   const { addToast } = useToast();
+  const history = useHistory();
 
   const handleSubmit = useCallback(
     async (data: SignInFormData) => {
@@ -39,9 +40,10 @@ const Signin: React.FC = () => {
         await schema.validate(data, {
           abortEarly: false,
         });
-        console.log(data);
 
         await signIn(data);
+
+        history.push('/dashboard');
       } catch (err) {
         if (err instanceof Yup.ValidationError) {
           const errors = getValidationErros(err);
