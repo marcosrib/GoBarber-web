@@ -1,7 +1,7 @@
 import React, { createContext, useCallback, useState, useContext } from 'react';
 import api from '../services/api';
 
-type User = void;
+type User = object;
 
 interface AuthState {
   token: string;
