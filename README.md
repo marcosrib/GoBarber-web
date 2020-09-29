@@ -16,8 +16,9 @@ Link backend: [clique aqui](https://github.com/marcosrib/gobarber-backend).
 
 ## :camera: Preview:
 
-![Captura de tela de 2020-09-23 21-30-32](https://user-images.githubusercontent.com/43934564/94089534-c3a81000-fde9-11ea-9020-3731ff635276.png)
-![Captura de tela de 2020-09-23 21-33-10](https://user-images.githubusercontent.com/43934564/94089533-c30f7980-fde9-11ea-9057-f2f8c8d1d917.png)
+![Captura de tela de 2020-09-29 13-50-42](https://user-images.githubusercontent.com/43934564/94588831-dc397f80-025a-11eb-9705-87846f9d041a.png)
+![Captura de tela de 2020-09-29 13-50-54](https://user-images.githubusercontent.com/43934564/94588829-da6fbc00-025a-11eb-91d8-9c2f3d76c4ec.png)
+
 
 ## :gear: Funcionalidades:
 
