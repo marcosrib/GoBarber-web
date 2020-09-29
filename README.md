@@ -16,8 +16,7 @@ Link backend: [clique aqui](https://github.com/marcosrib/gobarber-backend).
 
 ## :camera: Preview:
 
-### Tela de login:
-![Captura de tela de 2020-09-29 13-50-54](https://user-images.githubusercontent.com/43934564/94588829-da6fbc00-025a-11eb-91d8-9c2f3d76c4ec.png)
+### Tela de login:![Captura de tela de 2020-09-29 13-50-54](https://user-images.githubusercontent.com/43934564/94588829-da6fbc00-025a-11eb-91d8-9c2f3d76c4ec.png)
 
 ### Tela de cadastro cliente e prestador(Barbearia):
 ![Captura de tela de 2020-09-29 13-50-42](https://user-images.githubusercontent.com/43934564/94588831-dc397f80-025a-11eb-9705-87846f9d041a.png)
