@@ -23,8 +23,8 @@ Link backend: [clique aqui](https://github.com/marcosrib/gobarber-backend).
 
 - [X] Efetuar logon.
 - [X] Castrar usuário e prestadores.
-- [] Realizar agendamento.
-- [] Editar perfil.
+- [ ] Realizar agendamento.
+- [ ] Editar perfil.
 ## :file_folder: Bibliotecas utilizadas:
 - axios.
 - polished.
