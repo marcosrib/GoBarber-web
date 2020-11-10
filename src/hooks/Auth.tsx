@@ -3,6 +3,7 @@ import api from '../services/api';
 
 type IUser = {
   id: string;
+  email: string;
   name: string;
   avatar_url: string;
 };
