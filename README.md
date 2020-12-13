@@ -14,7 +14,7 @@ Projeto desenvolvido no Gostack da Rocketseat com reactjs.
 
  Propósito de criação:
 
-- Visualização de agendamentos dos clientes.
+- Visualização de agendamento dos clientes.
 - Cadastro de clientes e prestadores de serviços (Barbearias).
 - Edição de Perfil.
 
