@@ -10,7 +10,7 @@
 
 ## :memo: Descrição do projeto:
 
-Este projeto que foi desenvolvido no GoStack da Rocketseat com Reactjs.
+Projeto desenvolvido no Gostack da Rocketseat com reactjs.
 
  Propósito de criação:
 
