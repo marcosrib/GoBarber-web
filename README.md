@@ -20,8 +20,8 @@ Link backend: [clique aqui](https://github.com/marcosrib/gobarber-backend).
 
 ### Tela de cadastro cliente e prestador(Barbearia):![Captura de tela de 2020-09-29 13-50-42](https://user-images.githubusercontent.com/43934564/94588831-dc397f80-025a-11eb-9705-87846f9d041a.png)
 
-### Tela agendamento(Barbearia):![Captura de tela de 2020-12-12 23-26-46](https://user-images.githubusercontent.com/43934564/102001489-9294f880-3cd1-11eb-86d4-1af9d55552f5.png)
-### Tela perfil(Barbearia):![Captura de tela de 2020-12-12 23-26-56](https://user-images.githubusercontent.com/43934564/102001491-99237000-3cd1-11eb-88b1-c98c19d6b3a5.png)
+### Tela agendamento:![Captura de tela de 2020-12-12 23-26-46](https://user-images.githubusercontent.com/43934564/102001489-9294f880-3cd1-11eb-86d4-1af9d55552f5.png)
+### Tela perfil:![Captura de tela de 2020-12-12 23-26-56](https://user-images.githubusercontent.com/43934564/102001491-99237000-3cd1-11eb-88b1-c98c19d6b3a5.png)
 
 
 ## :gear: Funcionalidades:
