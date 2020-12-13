@@ -45,7 +45,7 @@ Link backend: [clique aqui](https://github.com/marcosrib/gobarber-backend).
 - prettier
 - date-fns
 - react-day-picker
-- jest
+
 ## :arrow_forward: Como executar:
 No terminal clone o projeto.
 ```
